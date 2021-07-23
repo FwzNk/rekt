@@ -1,4 +1,7 @@
-# Hammer - DDos Tool
+# Rekt - DDos Tool
+
+- Credit to Cyweb Hammer Script
+
 
 Powerful **HTTP-FLOOD DDos Tool**,
 This script is as same as the original one, but **MORE POWERFUL**!
@@ -11,7 +14,7 @@ Added **3170 NEW USER-AGENTS and 171 NEW HTTP-REFERRER** which can create more t
 
 Example is shown below:
 
-    python3 hammer.py -s1.1.1.1 -p80 -t200
+    python3 rekt.py -s1.1.1.1 -p80 -t200
 -s is the target's IP address
 
 -p is the port
