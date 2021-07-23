@@ -4,11 +4,8 @@
 
 
 Powerful **HTTP-FLOOD DDos Tool**,
-This script is as same as the original one, but **MORE POWERFUL**!
+This script is as same as Hammer, but **MORE POWERFUL**!
 
-# What's New?
-
-Added **3170 NEW USER-AGENTS and 171 NEW HTTP-REFERRER** which can create more than **1 MILLION Unique Requests**!
 
 ## How to use?
 
