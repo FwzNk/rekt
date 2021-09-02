@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # python 3.3.2+ Rekt Dos Script v.1
-# This script was based by Cyweb Hammer Script
+# This script was based on Cyweb Hammer Script
 
 
 ################################
