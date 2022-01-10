@@ -3,7 +3,7 @@
 -credit to cyweb's Hammer script
 
 Powerful **HTTP-FLOOD DDos Tool**,
-This script is as same as hammer script, but **MORE POWERFUL**!
+This script is as same as hammer script, but **MORE USER-AGENTS** (coz why not?)!
 
 
 ## How to use?
